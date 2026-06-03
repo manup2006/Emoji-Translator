@@ -31,4 +31,4 @@ The application monitors user input through a TextWatcher and replaces predefine
 - Speech-to-Emoji conversion
 
 ## Author
-Manu
+Mannasvee Patil
